@@ -1,1 +1,2 @@
-# Sad_Park_Comp
+# Sadovo-Parkova_Company
+Sadovo-Parkova_Company
